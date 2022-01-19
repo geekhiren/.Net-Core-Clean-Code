@@ -2602,7 +2602,6 @@ There are many new await-friendly techniques that should be used instead of the 
 | `Thread.Sleep`     | `await Task.Delay`                   | Wait/await for a period of time                               |
 | `Task` constructor | `Task.Run` or `TaskFactory.StartNew` | Create a code-based task                                      |
 
-> Source https://gist.github.com/jonlabelle/841146854b23b305b50fa5542f84b20c
 
 **[⬆ back to top](#table-of-contents)**
 
