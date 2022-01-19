@@ -21,15 +21,6 @@ Check out my [blog](https://geekhiren.com/) or say hi on [Twitter](https://twitt
   - [Error Handling](#error-handling)
   - [Formatting](#formatting)
   - [Comments](#comments)
-- [Other Clean Code Resources](#other-clean-code-resources)
-  - [Other Clean Code Lists](#other-clean-code-lists)
-  - [Style Guides](#style-guides)
-  - [Tools](#tools)
-  - [Cheatsheets](#cheatsheets)
-- [Contributors](#contributors)
-- [Backers](#backers)
-- [Sponsors](#sponsors)
-- [License](#license)
 
 # Introduction
 
@@ -3178,44 +3169,3 @@ private int ConvertTo32BitInt(int value)
 **[⬆ back to top](#table-of-contents)**
 
 </details>
-
-# Other Clean Code Resources
-
-## Other Clean Code Lists
-
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
-- [clean-code-php](https://github.com/jupeter/clean-code-php) - Clean Code concepts adapted for PHP
-- [clean-code-ruby](https://github.com/uohzxela/clean-code-ruby) - Clean Code concepts adapted for Ruby
-- [clean-code-python](https://github.com/zedr/clean-code-python) - Clean Code concepts adapted for Python
-- [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
-- [clean-go-article](https://github.com/Pungyeon/clean-go-article) - Clean Code concepts adapted for Golang and an example how to apply [clean code in Golang](https://github.com/Pungyeon/clean-go)
-- [clean-abap](https://github.com/SAP/styleguides) - Clean Code concepts adapted for ABAP
-- [programming-principles](https://github.com/webpro/programming-principles) - Categorized overview of Programming Principles & Patterns
-
-## Style Guides
-- [Google Styleguides](https://github.com/google/styleguide) - This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide
-
-## Tools
-
-- [codemaid](https://github.com/codecadwallader/codemaid) - open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding
-- [Sharpen](https://github.com/sharpenrocks/Sharpen) - Visual Studio extension that intelligently introduces new C# features into your existing code base
-- [tslint-clean-code](https://github.com/Glavin001/tslint-clean-code) - TSLint rules for enforcing Clean Code
-
-## Cheatsheets
-
-- [AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) - Examples of broken patterns in ASP.NET Core applications
-- [Clean Code](cheatsheets/Clean-Code-V2.4.pdf) - The summary of [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/dp/0132350882) book
-- [Clean Architecture](cheatsheets/Clean-Architecture-V1.0.pdf) - The summary of [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/dp/0134494164) book
-- [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects
-- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org) - Cheatsheet was created to provide a concise collection of high value information on specific application security topics
-- [.NET Memory Performance Analysis](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md) - This document aims to help folks who develop applications in .NET with how to think about memory performance analysis and finding the right approaches to perform such analysis if they need to. In this context .NET includes .NET Framework and .NET Core. In order to get the latest memory improvements in both the garbage collector and the rest of the framework I strongly encourage you to be on .NET Core if you are not already, because that’s where the active development happens
-- [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming
-- [101 Design Patterns & Tips for Developers](https://sourcemaking.com/design-patterns-and-tips)
-
----
-
-# License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [thangchung](https://github.com/geekhiren) has waived all copyright and related or neighboring rights to this work.
